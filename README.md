@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+Hello everyone 🤗👋,<br><br>My name is Muhammad Bahy Ramadhan,<br>you can call me Bahy 🙋‍♂️.<br>I am currently taking a Bachelor degree<br>in Information Systems study program at Telkom University Jakarta 🧑‍🎓.<br>I always have a big curiousity to explore and dig in new things,<br>especially in astronomy and science 🌌🔭🔬.<br><br>My Skills Are:<br><br>1. Microsoft Office (Word, PowerPoint, Excel)<br>2. Programming<br>3. UI/UX Designing & Prototyping (Figma)<br><br>My Hobbies Are:<br><br>1. Creating & Editing Video 📹<br>2. Listening To Music & Singing 🎧🎤<br>3. Playing Video Games 🎮<br>4. Swimming 🏊‍♂️<br>5. Watching Movies & Series 🎥🍿<br>6. Writing Manuscripts & Poets ✍️📝<br><br>Fun Facts About Me:<br><br>1. I shared the same birthday as The Walt Disney Company 🎥🍿.<br>Wow, isn't that unbelievable! Until this day I still can't believe this crazy fact!<br>That explains why until this day I still loves to watch animated films and series,<br>mostly from Disney and DreamWorks.<br>2. Biggest Swifties you’ve ever known 🎤.<br>Just name me some of Taylor’s songs,<br>I bet I can answer it very swiftly (no pun intended).<br>3. Cat lovers at it’s finest 🐈.<br>I love dogs too 🐕, but I also love wolves as much as I love cats and dogs.<br>Wolves are awesome, you know 🐺.
 
-<!--
-**muhammadbahyramadhan/muhammadbahyramadhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1113255741726408725) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/muhammad.b.ramadhan.7921) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/this_is_bahy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-bahy-ramadhan/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/14DPssgsQ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@unknown_person_0.1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ramadhan_bahy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@muhammadbahyramadhan) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muhammadbahyramadhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadbahyramadhan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadbahyramadhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muhammadbahyramadhan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=muhammadbahyramadhan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
